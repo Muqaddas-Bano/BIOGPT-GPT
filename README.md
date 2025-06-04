@@ -44,7 +44,6 @@ Here are some of the projects I've worked on:
   - [GPT Model Trained on Saffron Curcuma Data (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/22261fa18e822c53ec78a0a3c8ee729db3582053/GPT%20model%20trained%20on%20Saffron%20Curcuma%20Data.ipynb)
 
 ## Research Interests
-## Research Interests
 - Plant Stress Molecular Physiology
 - Plant Functional Genomics
 - Evolutionary Phylogenetics
@@ -56,13 +55,7 @@ Here are some of the projects I've worked on:
 - Machine Learning / AI Models in Plant Research
 - Stress Tolerance Mechanisms
 - Crop Improvement
-  
 
-
-## Contact Me
-Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/muqaddas-bano)
-- [Twitter](https://x.com/muqaddasbano1)
 
 ---
 
