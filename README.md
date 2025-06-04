@@ -23,12 +23,6 @@ I specialize in **Plant Identification**, **Bioinformatics**, and **Data Analysi
 ### BS in Botany (2017-2021)
 - **University of Gujrat**, Pakistan
 
-## Skills
-- **Languages**: Python, R, MATLAB
-- **Tools**: IBM SPSS Statistics 20, MINITAB, Linux (Server, Terminal Commands, Bash/Shell)
-- **Research Techniques**: Plant identification, Herbarium techniques, Bioinformatics
-- **Problem Solving**: Excellent analytical and problem-solving abilities, capable of conducting independent scientific research projects.
-
 ## Projects
 
 Here are some of the projects I've worked on:
