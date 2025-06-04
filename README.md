@@ -62,7 +62,7 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/muqaddasbano)
+- [LinkedIn](https://www.linkedin.com/in/muqaddas-bano)
 - [Email](mailto:muqaddasbano12@mails.ucas.ac.cn)
 
 ---
