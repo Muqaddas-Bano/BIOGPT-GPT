@@ -13,7 +13,7 @@ You can contact me at:
 
 ## Education
 
-### MS in Botany (2013-Present)
+### MS in Botany (2023-Present)
 - **Wuhan Botanical Garden, Chinese Academy of Sciences**, China
 
 ### BS in Botany (2017-2021)
@@ -33,9 +33,12 @@ Here are some of the projects I've worked on:
 - **Description**: Development of machine learning models for analyzing Saffron Curcuma data.
 - **Technologies**: Python, Jupyter Notebooks, Data Science, Machine Learning.
 - **Project Files**: 
-  - [Saffron Curcuma Model (Jupyter Notebook)](./Saffron_Curcuma_Model.ipynb)
-  - [Model Code and Documentation](.Machine_learning_Saffron_Project_part_1.ipynb)
-  -  - [Model Code and Documentation](.BIOGPT model trained on Saffron Data.ipynb)
+  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_1_with_outputs (1).ipynb)
+  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_2_with_outputs (1).ipynb)
+  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_3_with_outputs (3).ipynb)
+  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_4_with_outputs (1).ipynb)
+  
+  
   
 ### 2. **BIOGPT - Saffron Data Modeling**
 - **Description**: A custom model trained on Saffron Curcuma data for predictions and analysis.
