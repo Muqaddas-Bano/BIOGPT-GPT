@@ -1,4 +1,3 @@
-
 # Muqaddas Bano's GitHub Profile
 
 ## About Me
@@ -33,21 +32,17 @@ Here are some of the projects I've worked on:
 - **Description**: Development of machine learning models for analyzing Saffron Curcuma data.
 - **Technologies**: Python, Jupyter Notebooks, Data Science, Machine Learning.
 - **Project Files**: 
-  - [Saffron Curcuma Model (Jupyter Notebook)](Machine_learning_Saffron_Project_part_4_with_outputs (1).ipynb)
-  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_2_with_outputs (1).ipynb)
-  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_3_with_outputs (3).ipynb)
-  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_4_with_outputs (1).ipynb)
-  
-  
+  - [Saffron Curcuma Model Part 1 (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/81fc7dc4d0dfb8b03abe83a69fe900a151baf381/Machine_learning_Saffron_Project_part_1_with_outputs%20(1).ipynb)
+  - [Saffron Curcuma Model Part 2 (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/22261fa18e822c53ec78a0a3c8ee729db3582053/Machine_learning_Saffron_Project_part_2_with_outputs%20(1).ipynb)
+  - [Saffron Curcuma Model Part 3 (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/81fc7dc4d0dfb8b03abe83a69fe900a151baf381/Machine_learning_Saffron_Project_part_3_with_outputs%20(3).ipynb)
+  - [Saffron Curcuma Model Part 4 (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/81fc7dc4d0dfb8b03abe83a69fe900a151baf381/Machine_learning_Saffron_Project_part_4_with_outputs%20(1).ipynb)
   
 ### 2. **BIOGPT - Saffron Data Modeling**
 - **Description**: A custom model trained on Saffron Curcuma data for predictions and analysis.
 - **Technologies**: Python, Machine Learning, AI, Jupyter Notebooks.
 - **Project Files**: 
-  - [BIOGPT Model (Jupyter Notebook)](./BIOGPT_Model.ipynb)
-  - [Model Code and Documentation](.BIOGPT model trained on Saffron Data.ipynb)
-  - [Model Code and Documentation](.GPT model trained on Saffron Curcuma Data.ipynb)
-
+  - [BIOGPT Model (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/22261fa18e822c53ec78a0a3c8ee729db3582053/BIOGPT%20model%20trained%20on%20Saffron%20Data.ipynb)
+  - [GPT Model Trained on Saffron Curcuma Data (Jupyter Notebook)](https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/22261fa18e822c53ec78a0a3c8ee729db3582053/GPT%20model%20trained%20on%20Saffron%20Curcuma%20Data.ipynb)
 
 ## Research Interests
 - Plant Genomics
@@ -56,9 +51,10 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/muqaddasbano) <!-- Optional -->
+- [LinkedIn](https://www.linkedin.com/in/muqaddasbano)
 - [Email](mailto:muqaddasbano12@mails.ucas.ac.cn)
 
 ---
 
 *“Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.”* – Louis Pasteur
+
