@@ -4,7 +4,7 @@
 
 Hi there! I'm **Muqaddas Bano**, a passionate botanist and data science enthusiast currently pursuing a Master's degree in **Botany** at the **Wuhan Botanical Garden**, **Chinese Academy of Sciences**, China.
 
-I specialize in **Plant Identification**, **Bioinformatics**, and **Data Analysis** using various tools like **IBM SPSS Statistics**, **MINITAB**, **MATLAB**, **Python**, **R**, and **Linux**. I have strong problem-solving skills and can independently conduct scientific research. My goal is to leverage my research expertise to drive advancements in botanical science and related fields through data analysis and machine learning.
+I specialize in **Plant Identification**, **Bioinformatics**, and **Data Analysis** using various tools like **IBM SPSS Statistics**, **MINITAB**, **MATLAB**, **Python**, **R**, and **Linux**. I have strong problem-solving skills and can independently conduct scientific research. My goal is to leverage my research expertise to drive advancements in botanical science and related fields through data analysis.
 
 You can contact me at:
 - **Email**: muqaddasbano12@mails.ucas.ac.cn / muqaddasbano12@gmail.com
