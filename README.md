@@ -63,7 +63,7 @@ Here are some of the projects I've worked on:
 ## Contact Me
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/muqaddas-bano)
-- [Twitter](muqaddasbano1)
+- [Twitter](@muqaddasbano1)
 
 ---
 
