@@ -34,21 +34,17 @@ Here are some of the projects I've worked on:
 - **Technologies**: Python, Jupyter Notebooks, Data Science, Machine Learning.
 - **Project Files**: 
   - [Saffron Curcuma Model (Jupyter Notebook)](./Saffron_Curcuma_Model.ipynb)
-  - [Model Code and Documentation](./model_code.py)
+  - [Model Code and Documentation](.Machine_learning_Saffron_Project_part_1.ipynb)
+  -  - [Model Code and Documentation](.BIOGPT model trained on Saffron Data.ipynb)
   
 ### 2. **BIOGPT - Saffron Data Modeling**
 - **Description**: A custom model trained on Saffron Curcuma data for predictions and analysis.
 - **Technologies**: Python, Machine Learning, AI, Jupyter Notebooks.
 - **Project Files**: 
   - [BIOGPT Model (Jupyter Notebook)](./BIOGPT_Model.ipynb)
-  - [Model Code and Documentation](./biogpt_code.py)
+  - [Model Code and Documentation](.BIOGPT model trained on Saffron Data.ipynb)
+  - [Model Code and Documentation](.GPT model trained on Saffron Curcuma Data.ipynb)
 
-### 3. **Saffron Data Analysis Project**
-- **Description**: Data analysis of Saffron data with various machine learning algorithms.
-- **Technologies**: Python, Pandas, Matplotlib, Machine Learning.
-- **Project Files**: 
-  - [Saffron Data Analysis (Jupyter Notebook)](./Saffron_Data_Analysis.ipynb)
-  - [Analysis Code](./saffron_analysis.py)
 
 ## Research Interests
 - Plant Genomics
