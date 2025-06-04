@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 - **Description**: Development of machine learning models for analyzing Saffron Curcuma data.
 - **Technologies**: Python, Jupyter Notebooks, Data Science, Machine Learning.
 - **Project Files**: 
-  - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_1_with_outputs (1).ipynb)
+  - [Saffron Curcuma Model (Jupyter Notebook)](./https://github.com/Muqaddas-Bano/muqaddasbano.github.io/blob/81fc7dc4d0dfb8b03abe83a69fe900a151baf381/Machine_learning_Saffron_Project_part_3_with_outputs%20(3).ipynb)
   - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_2_with_outputs (1).ipynb)
   - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_3_with_outputs (3).ipynb)
   - [Saffron Curcuma Model (Jupyter Notebook)](./Machine_learning_Saffron_Project_part_4_with_outputs (1).ipynb)
